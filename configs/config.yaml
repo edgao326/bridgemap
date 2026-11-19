@@ -1,0 +1,9 @@
+# Placeholder settings
+models:
+  primary: TODO
+  secondary: TODO
+  embedding: TODO
+clustering:
+  similarity_threshold: TODO
+evaluation:
+  thresholds: TODO
